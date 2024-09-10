@@ -5,7 +5,7 @@ import random
 
 from PIL import Image
 
-t.register_shape("./enemy1.gif")
+# t.register_shape("./enemy1.gif")
 t.register_shape("./player.gif")
 
 
